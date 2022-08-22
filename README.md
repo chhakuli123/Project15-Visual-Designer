@@ -1,6 +1,6 @@
 # Project 15 | Visual-Designer ![Project 15](https://img.shields.io/badge/Project%20-15-green) ![bootcamp](https://img.shields.io/badge/JS-Bootcamp-yellow)
 
-### By Chhakuli
+### By Chhakuli zingare
 
 
 ## 🔗Live Link -: [Visual-Designer  ](https://project15-visual-designer.netlify.app/)
